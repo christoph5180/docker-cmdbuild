@@ -73,9 +73,9 @@ You can use the following : --link option **(deprecated)** or the network featur
 
 #### Docker Compose files
 
-##### Links (deprecated)
+### Links (deprecated)
 
-** From cmdbuild 2.4.0 I stopped to add the docker-compose file with the link option**
+**From cmdbuild 2.4.0 I stopped to add the docker-compose file with the link option**
 
 **Tomcat 6 with java 8**
 
@@ -88,7 +88,7 @@ You can use the following : --link option **(deprecated)** or the network featur
 * [```t7-1.4.0.2```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-1.4.0.2/Docker-Compose/Links/docker-compose.yml) | [```t7-1.5.0```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-1.5.0/Docker-Compose/Links/docker-compose.yml) | [```t7-2.0.0```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.0.0/Docker-Compose/Links/docker-compose.yml) | [```t7-2.0.3```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.0.3/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.0```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.0/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.1```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.1/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.2```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.2/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.3```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.3/Docker-Compose/Links/docker-compose.yml)| [```t7-2.1.4```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.4/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.5```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.5/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.6```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.6/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.7```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.7/Docker-Compose/Links/docker-compose.yml) | [```t7-2.1.8```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.1.8/Docker-Compose/Links/docker-compose.yml) | [```t7-2.2.0```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.2.0/Docker-Compose/Links/docker-compose.yml) | [```t7-2.2.1```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.2.1/Docker-Compose/Links/docker-compose.yml) | [```t7-2.2.2```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.2.2/Docker-Compose/Links/docker-compose.yml) | [```t7-2.3.0```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.3.0/Docker-Compose/Links/docker-compose.yml) | [```t7-2.3.1```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.3.1/Docker-Compose/Links/docker-compose.yml) | [```t7-2.3.2```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.3.2/Docker-Compose/Links/docker-compose.yml) | [```t7-2.3.3```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.3.3/Docker-Compose/Links/docker-compose.yml) | [```t7-2.3.4```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.3.4/Docker-Compose/Links/docker-compose.yml) | [```t7-2.4.0```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.4.0/Docker-Compose/Links/docker-compose.yml)
 
 
-##### Network
+### Network
 
 **Tomcat 6 with java 8**
 
