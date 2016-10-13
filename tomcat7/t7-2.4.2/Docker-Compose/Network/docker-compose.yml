@@ -2,7 +2,7 @@ version : '2'
 
 services:
  tomcat:
-  image: quentinv/cmdbuild:t7-2.4.1
+  image: quentinv/cmdbuild:latest
   ports:
    - 8080:8080
   restart: always 
