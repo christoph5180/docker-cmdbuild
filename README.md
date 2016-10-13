@@ -8,6 +8,8 @@
 * **From 10/2016, I will stop to add the tomcat 6 dockerfiles.**
 * **Please open issues on [github](https://github.com/Quentinvarquet/docker-cmdbuild/issues)**
 
+**I recommend to use the latest version of cmdbuild with Tomcat 7**
+
 
 ### CMDBuild
 
