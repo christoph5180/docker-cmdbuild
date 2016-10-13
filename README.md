@@ -4,9 +4,9 @@
 ![cmdbuild_logo](http://www.cmdbuild.org/logo.png)
 
 ### Last update : 14/10/2016 . Add cmdbuild 2.4.2 and update readme
-#### From cmdbuild 2.4.0 I will stop adding the docker-compose file with the link option
-#### From 10/2016, I will stop to add the tomcat 6 dockerfiles. 
-#### Please open issues on [github](https://github.com/Quentinvarquet/docker-cmdbuild/issues)
+* #### From cmdbuild 2.4.0 I will stop adding the docker-compose file with the link option
+* #### From 10/2016, I will stop to add the tomcat 6 dockerfiles. 
+* #### Please open issues on [github](https://github.com/Quentinvarquet/docker-cmdbuild/issues)
 
 
 ### CMDBuild
