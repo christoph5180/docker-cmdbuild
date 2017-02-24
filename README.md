@@ -1,9 +1,9 @@
 
-# CMDBuild in Docker (Last version 2.4.2)
+# CMDBuild in Docker (Last version 2.4.3)
 
 ![cmdbuild_logo](http://www.cmdbuild.org/logo.png)
 
-### Last update : 14/10/2016 . Add cmdbuild 2.4.2 and update readme
+### Last update : 24/02/2017 . Add cmdbuild 2.4.3 and update readme
 * **From cmdbuild 2.4.0 I will stop adding the docker-compose file with the link option**
 * **From 10/2016, I will stop to add the tomcat 6 dockerfiles.**
 * **Please open issues on [github](https://github.com/Quentinvarquet/docker-cmdbuild/issues)**
@@ -117,3 +117,6 @@ You can use the following : --link option **(deprecated)** or the network featur
 * **Port:** 5432
 * **Username:** postgres
 * **Password:** your_postgres_password
+
+
+## Please open issues on [github](https://github.com/Quentinvarquet/docker-cmdbuild/issues)
