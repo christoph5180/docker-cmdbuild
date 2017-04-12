@@ -78,6 +78,8 @@ I created a docker-compose.yml for every version of cmdbuild. (tomcat + postgres
 * **Port:** 5432
 * **Username:** postgres
 * **Password:** your_postgres_password
+* **Database where stored in ./db folder
+* **CMDB config where stored in ./config folder
 
 
 ## Please open issues on [github](https://github.com/christoph5180/docker-cmdbuild/issues)
