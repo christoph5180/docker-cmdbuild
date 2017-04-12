@@ -67,7 +67,7 @@ I created a docker-compose.yml for every version of cmdbuild. (tomcat + postgres
 
 **Tomcat 7 with java 8**
 
- * [```t7-2.4.3(latest)```](https://github.com/Quentinvarquet/docker-cmdbuild/blob/master/tomcat7/t7-2.4.3/Docker-Compose/Network/docker-compose.yml)
+ * [```t7-2.4.3(latest)```](https://github.com/christoph5180/docker-cmdbuild/blob/patch-1/tomcat7/t7-2.4.3/Docker-Compose/Network/docker-compose.yml)
 
 
 #### Database configuration
