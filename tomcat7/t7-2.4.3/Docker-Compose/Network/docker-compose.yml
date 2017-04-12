@@ -8,6 +8,8 @@ services:
   restart: always 
   networks:
    - cmdbuild-network
+  volumes:
+   - ./conf:/usr/local/tomcat/webapps/ROOT/WEB-INF/conf
 
  pgsql:
   image: postgres:9.3
@@ -16,6 +18,8 @@ services:
    - POSTGRES_PASSWORD=YOUR_POSTGRES_PASSWORD
   networks:
    - cmdbuild-network
+  volumes:
+   - ./db:/var/lib/postgresql/data
    
 networks:
    cmdbuild-network:
